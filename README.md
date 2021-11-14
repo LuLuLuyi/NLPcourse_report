@@ -12,6 +12,6 @@
 
 ### 5.LSTMLM_pytorch_api.py 该程序为利用官方API实现的LSTM（用来比较效果）
 
-### 4.LSTMLM_pytorch_api_2layers.py 该程序为利用官方API实现的双层LSTM（用来比较效果）
+### 6.LSTMLM_pytorch_api_2layers.py 该程序为利用官方API实现的双层LSTM（用来比较效果）
 
 ## 电子版结课报告已附在压缩包中
